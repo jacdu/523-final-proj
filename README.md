@@ -1,3 +1,6 @@
+
+Note: This is a final project for R Computing class taken in Fall 2021. Files have been duplicated from private org repo (hence the minimal commits). 
+
 <!-- ABOUT THE PACKAGE -->
 
 ### About nbaanalysis package
